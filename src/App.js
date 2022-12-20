@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          GRUPO 6 SOFTWARE AVANZADO DICIEMBRE 2022
         </a>
       </header>
     </div>
